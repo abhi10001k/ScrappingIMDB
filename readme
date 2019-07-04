@@ -1,0 +1,1 @@
+This Program Fetch data about Movies from IMDB site and save the data into tables in MYSQL Database. The database created can be used to build other applications.
